@@ -1,3 +1,5 @@
+The package was moved to https://github.com/seznam/ima/tree/master/packages/create-ima-app.
+
 # IMA.js-examples
 
 This repository houses the example applications built on top of the IMA.js
